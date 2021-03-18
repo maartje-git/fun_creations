@@ -4,8 +4,10 @@ Just some random fun creations I made in python
 
 disclaimer: pics used are not mine. Most are from paxabay, some just random googling
 
+================================
 
 210318:
+
 In March 2020, during the first covid lockdown I decided to start and learn Python.
 Therefore I used the following book:
 Python Crash Course, 2nd Edition
@@ -25,3 +27,4 @@ It just continues for ever and ever ;)
 
 enjoy!
 
+=================================
