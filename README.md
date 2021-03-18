@@ -2,7 +2,7 @@
 Just some random fun creations I made in python
 ! I'm always up for comments and ways to improve my scripts :) 
 
-#=========================================================================================================================================
+#==============================================================================
 210318:
 In March 2020, during the first covid lockdown I decided to start and learn Python.
 Therefore I used the following book:
@@ -22,4 +22,4 @@ Speaks for itself I guess. Does the exact same thing an actual snowglobe does, h
 It just continues for ever and ever ;)
 
 enjoy!
-#===========================================================================================================================================
+#================================================================================
