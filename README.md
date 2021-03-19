@@ -1,12 +1,14 @@
 # fun_creations
-Just some random fun creations I made in python
-! I'm always up for comments and ways to improve my scripts :)
+## Just some random fun creations I made in python
+
+
+**! I'm always up for comments and ways to improve my scripts** :wink: 
 
 disclaimer: pics used are not mine. Most are from paxabay, some just random googling
 
-================================
+---
 
-210318:
+### **210318:**
 
 In March 2020, during the first covid lockdown I decided to start and learn Python.
 Therefore I used the following book:
@@ -27,4 +29,4 @@ It just continues for ever and ever ;)
 
 enjoy!
 
-=================================
+---
