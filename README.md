@@ -4,7 +4,7 @@
 
 **! I'm always up for comments and ways to improve my scripts** :wink: 
 
-disclaimer: pics used are not mine. Most are from paxabay, some just random googling
+disclaimer: pics used are not mine. Most are from pixabay, some just random googling
 
 ---
 
