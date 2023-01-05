@@ -1,0 +1,24 @@
+$ cd /
+$ ls
+dir cgw
+dir fbhz
+dir lvrzvt
+224312 vngq
+dir vwlps
+$ cd cgw
+$ ls
+dir jpmf
+dir rfb
+dir tjtccqtm
+$ cd jpmf
+$ ls
+dir ncfcchsz
+dir rfb
+dir tjtccqtm
+$ cd ncfcchsz
+$ ls
+205103 ntpprbt.pvt
+$ cd ..
+$ cd rfb
+$ ls
+331667 tjtccqtm.qzv
