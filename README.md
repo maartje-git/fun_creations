@@ -18,7 +18,7 @@ by Eric Matthes
 
 It's a nice course for python newbies. It starts at the super super basics and slowly builds up to really developing fun stuff
 I finished the course until the end of the python basics. After that I only did the game design chapter.
-The initial idea was to learn Python, to be ably to program an OPentrons OT-2 robot. I though game-developping came closest to that ;)
+The initial idea was to learn Python to be able to program an Opentrons OT-2 liquid handling robot. I thought game-developping came closest to that ;)
 
 The two coolest creations I made while working through the Crash Course I put up here
 -Penny the Hungry Cat 
