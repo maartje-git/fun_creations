@@ -17,7 +17,7 @@ list_1 = []
 list_2 = []
 
 #open data and loop through lines.
-with open('advent_of_code/2024/data_day1.txt') as data:
+with open('https://github.com/maartje-git/fun_creations/blob/main/advent_of_code/2024/data_day1.txt') as data:
     for line in data:
         #split line in 2 separate numbers
         number_1, number_2 = line.split('   ‘,1)
